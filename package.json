@@ -1,0 +1,25 @@
+{
+    "name": "tailormate3d-lib-esm",
+    "version": "1.1.0",
+    "description": "Tailormate3d esm library",
+    "main": "tailormate3d.lib.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/hirenreshamwala/tailormate3d-lib-esm.git"
+    },
+    "keywords": [
+      "3D",
+      "tailormate",
+      "Web3d",
+      "Webgl"
+    ],
+    "author": "Hiren Reshamwala (hiren.reshamwala@gmail.com)",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/hirenreshamwala/tailormate3d-lib-esm/issues"
+    },
+    "homepage": "https://github.com/hirenreshamwala/tailormate3d-lib-esm#readme"
+  }
